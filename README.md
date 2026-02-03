@@ -351,5 +351,5 @@ Upon request, can provide:
 ---
 
 *Assessment completed: February 3, 2026*  
-*Candidate: [Your Name]*  
+*Candidate: MARCIO FARIAS*  
 *Role: VP of Operations - Trilogy*
