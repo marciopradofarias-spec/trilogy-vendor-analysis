@@ -1,0 +1,3090 @@
+[
+  {
+    "index": 0,
+    "vendor_name": "Salesforce Uk Ltd-Uk",
+    "cost": 3117225.8877216,
+    "department": "SaaS",
+    "description": "Enterprise CRM platform for sales management",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 1,
+    "vendor_name": "Navan (Tripactions Inc)",
+    "cost": 357983.6164072,
+    "department": "G&A",
+    "description": "Corporate travel management platform",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 2,
+    "vendor_name": "Bdo Llp",
+    "cost": 343081.3853496,
+    "department": "Professional Services",
+    "description": "Accounting, audit and financial advisory",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 3,
+    "vendor_name": "Tog Uk Properties Limited",
+    "cost": 263821.1593744,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 4,
+    "vendor_name": "Cloudcrossing Bvba",
+    "cost": 208675.1466944,
+    "department": "Facilities",
+    "description": "Office space rental in Belgium",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 5,
+    "vendor_name": "Zagrebtower D.O.O.",
+    "cost": 183754.4183896,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 6,
+    "vendor_name": "Innovent Spaces Private Limited",
+    "cost": 147347.8039136,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 7,
+    "vendor_name": "Weking D.O.O.",
+    "cost": 144093.201148,
+    "department": "Facilities",
+    "description": "Office space rental in Croatia",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 8,
+    "vendor_name": "Jensten Insurance Brokers",
+    "cost": 142699.7305688,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 9,
+    "vendor_name": "Gpt Space & Co",
+    "cost": 133506.776816,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 10,
+    "vendor_name": "Aetna Life And Casualty Ltd",
+    "cost": 124661.4588432,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 11,
+    "vendor_name": "Rsm Uk Corporate Finance Llp",
+    "cost": 117077.8757856,
+    "department": "Professional Services",
+    "description": "Accounting, audit and financial advisory",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 12,
+    "vendor_name": "Amazon Web Services Llc",
+    "cost": 106399.2364888,
+    "department": "Engineering",
+    "description": "Cloud infrastructure and hosting services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 13,
+    "vendor_name": "Telefonica Global Services Gmbh",
+    "cost": 89879.5842232,
+    "department": "G&A",
+    "description": "Telecommunications and connectivity services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 14,
+    "vendor_name": "Hr Solution International Gmbh",
+    "cost": 80822.7573232,
+    "department": "G&A",
+    "description": "HR management and payroll services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 15,
+    "vendor_name": "4I Advisory Services",
+    "cost": 71860.3409824,
+    "department": "M&A",
+    "description": "M&A transaction advisory services",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 16,
+    "vendor_name": "Bisley Law Ltd",
+    "cost": 67414.2623224,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 17,
+    "vendor_name": "Infosys",
+    "cost": 66570.422208,
+    "department": "Professional Services",
+    "description": "IT consulting and professional services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 18,
+    "vendor_name": "Big Frontier Pty Ltd (Cult Of Monday)",
+    "cost": 66131.303328,
+    "department": "Marketing",
+    "description": "Digital marketing and creative agency",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 19,
+    "vendor_name": "Harmonic Group Limited",
+    "cost": 65417.735148,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 20,
+    "vendor_name": "Wework Singapore Pte. Ltd.",
+    "cost": 64373.3640784,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 21,
+    "vendor_name": "Cloud Technology Solutions Ltd",
+    "cost": 60661.3458128,
+    "department": "Engineering",
+    "description": "Cloud infrastructure and IT services",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 22,
+    "vendor_name": "Navan, Inc",
+    "cost": 57929.2945144,
+    "department": "G&A",
+    "description": "Corporate travel platform (duplicate vendor)",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 23,
+    "vendor_name": "Tmforum",
+    "cost": 57560.4346552,
+    "department": "Product",
+    "description": "Telecom industry standards membership organization",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 24,
+    "vendor_name": "Linkedin Ireland Limited",
+    "cost": 55572.6898584,
+    "department": "Marketing",
+    "description": "Digital advertising and lead generation platform",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 25,
+    "vendor_name": "Kimble Applications Ltd",
+    "cost": 52825.2693992,
+    "department": "SaaS",
+    "description": "Professional services automation platform",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 26,
+    "vendor_name": "Sage Uk Limited",
+    "cost": 46894.9689248,
+    "department": "SaaS",
+    "description": "Accounting and ERP software",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 27,
+    "vendor_name": "Grant Thornton",
+    "cost": 46538.5507672,
+    "department": "Professional Services",
+    "description": "Accounting, audit and financial advisory",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 28,
+    "vendor_name": "Sveu\u00e4_x008d_Ili\u00e5\u00a1Te U Zagrebu, Studentski Centar",
+    "cost": 44299.0444792,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 29,
+    "vendor_name": "Ss&C Intralinks Inc",
+    "cost": 39966.4048632,
+    "department": "SaaS",
+    "description": "Secure document sharing for M&A transactions",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 30,
+    "vendor_name": "Veniture D.O.O.",
+    "cost": 39342.1241888,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 31,
+    "vendor_name": "Accutrainee Limited",
+    "cost": 38840.7968008,
+    "department": "G&A",
+    "description": "Recruitment and training services",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 32,
+    "vendor_name": "Mason Frank International Ltd",
+    "cost": 38147.7208352,
+    "department": "G&A",
+    "description": "Salesforce-specialized recruitment firm",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 33,
+    "vendor_name": "Houlihan Lokey Advisors, Llc",
+    "cost": 37461.2316528,
+    "department": "M&A",
+    "description": "Investment banking and M&A advisory",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 34,
+    "vendor_name": "Vector Capital Management Lp",
+    "cost": 32426.7336936,
+    "department": "M&A",
+    "description": "Private equity M&A advisory services",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 35,
+    "vendor_name": "Hubspot Ireland Limited",
+    "cost": 32187.413904,
+    "department": "Marketing",
+    "description": "Marketing automation and CRM platform",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 36,
+    "vendor_name": "Nefron - Obrt Za Poslovne Usluge",
+    "cost": 30613.904584,
+    "department": "G&A",
+    "description": "Croatian business services provider",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 37,
+    "vendor_name": "Planful, Inc.",
+    "cost": 27741.335243999998,
+    "department": "SaaS",
+    "description": "Financial planning and budgeting software",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 38,
+    "vendor_name": "Cognism Limited",
+    "cost": 27013.129768,
+    "department": "Marketing",
+    "description": "B2B sales intelligence platform",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 39,
+    "vendor_name": "Uberflip",
+    "cost": 26090.98012,
+    "department": "Marketing",
+    "description": "Content experience platform",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 40,
+    "vendor_name": "Agram Life Osiguranje D.O.O.",
+    "cost": 24952.1984912,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 41,
+    "vendor_name": "Google Ireland Limited",
+    "cost": 24797.7750184,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 42,
+    "vendor_name": "Zuric I Partneri Odvjetnicko Drustvo D.O.O.",
+    "cost": 24135.4373744,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 43,
+    "vendor_name": "Care Health Insurance Company Limited",
+    "cost": 24044.6861392,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 44,
+    "vendor_name": "New Star Networks(Nsn)",
+    "cost": 23886.603342399998,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 45,
+    "vendor_name": "Bupa- Supplier",
+    "cost": 22799.784114399998,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 46,
+    "vendor_name": "Shree Info System Solutions Pvt Ltd",
+    "cost": 22275.0370528,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 47,
+    "vendor_name": "Technet It Recruitment",
+    "cost": 21952.284676,
+    "department": "G&A",
+    "description": "Recruitment and staffing services",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 48,
+    "vendor_name": "Mightyhive Ltd",
+    "cost": 19041.6583664,
+    "department": "Marketing",
+    "description": "Marketing automation and demand generation tool",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 49,
+    "vendor_name": "Cedar Recruitment Ltd",
+    "cost": 18537.4035192,
+    "department": "G&A",
+    "description": "Recruitment and staffing services",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 50,
+    "vendor_name": "Eurofast International Ltd-Greec",
+    "cost": 18164.1524712,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 51,
+    "vendor_name": "Hrvatski Telekom D.D.",
+    "cost": 18084.379208,
+    "department": "G&A",
+    "description": "Telecommunications and connectivity services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 52,
+    "vendor_name": "Sodexo Svc India Private Limited",
+    "cost": 17809.929908,
+    "department": "Facilities",
+    "description": "Employee food and catering services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 53,
+    "vendor_name": "Peakon Aps",
+    "cost": 17108.0715648,
+    "department": "SaaS",
+    "description": "Employee engagement and feedback platform",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 54,
+    "vendor_name": "Plus Your Business Ltd",
+    "cost": 17073.6739192,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 55,
+    "vendor_name": "Benefit Systems D.O.O.",
+    "cost": 16900.2219616,
+    "department": "G&A",
+    "description": "Employee benefits and wellness programs",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 56,
+    "vendor_name": "Smart Group Services D.O.O.",
+    "cost": 16438.4152728,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 57,
+    "vendor_name": "Jones Lang Lasalle (Nsw) Pty Ltd",
+    "cost": 16274.4775576,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 58,
+    "vendor_name": "Workato, Inc.",
+    "cost": 16101.025599999999,
+    "department": "SaaS",
+    "description": "Integration and automation platform",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 59,
+    "vendor_name": "Konzum Plus D.O.O.",
+    "cost": 15683.862664,
+    "department": "Facilities",
+    "description": "Employee food and catering services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 60,
+    "vendor_name": "Westbrook Advisers",
+    "cost": 15360.3784224,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 61,
+    "vendor_name": "Work Easy Space Solutions Private Limited",
+    "cost": 14913.209029599999,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 62,
+    "vendor_name": "Taxstudio, Ltd.",
+    "cost": 14642.419053599999,
+    "department": "Professional Services",
+    "description": "Tax advisory and compliance services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 63,
+    "vendor_name": "Pingo D.O.O.",
+    "cost": 14508.487795199999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 64,
+    "vendor_name": "Magazin Raunalni Sistemi D.O.O.",
+    "cost": 13870.301689599999,
+    "department": "Professional Services",
+    "description": "IT consulting and professional services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 65,
+    "vendor_name": "Tp Prime D.O.O.",
+    "cost": 13785.4053728,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 66,
+    "vendor_name": "Granttree Limited",
+    "cost": 13658.7927624,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 67,
+    "vendor_name": "Cigna Sg",
+    "cost": 13248.9484744,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 68,
+    "vendor_name": "Collards Chartered Accountants",
+    "cost": 12878.6248856,
+    "department": "Professional Services",
+    "description": "Accounting, audit and financial advisory",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 69,
+    "vendor_name": "Bupa Australia",
+    "cost": 12462.9256792,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 70,
+    "vendor_name": "4I Management Consulting Private Limited",
+    "cost": 12117.4854936,
+    "department": "Professional Services",
+    "description": "Business consulting and advisory services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 71,
+    "vendor_name": "Grad Zagreb, Gradski Ured Za Prostorno Ure\u00e4\u2018Enje,..",
+    "cost": 11636.650319999999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 72,
+    "vendor_name": "Bijeli Pijesak Obrt Za Poslovno Savjetovanje",
+    "cost": 11605.180133599999,
+    "department": "Professional Services",
+    "description": "Business consulting and advisory services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 73,
+    "vendor_name": "Ramiro D.O.O.",
+    "cost": 11515.892628,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 74,
+    "vendor_name": "Visalogic Limited",
+    "cost": 11240.7114632,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 75,
+    "vendor_name": "Poles Ltd - Hanbury Manor",
+    "cost": 10488.354448799999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 76,
+    "vendor_name": "Shoff Darby Companies",
+    "cost": 10100.4661048,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 77,
+    "vendor_name": "Emerge Development Consultancy Ltd",
+    "cost": 10046.3081096,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 78,
+    "vendor_name": "Performancepro",
+    "cost": 10017.765382399999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 79,
+    "vendor_name": "Microsoft Ireland Operations Limited",
+    "cost": 9821.625616,
+    "department": "SaaS",
+    "description": "Microsoft software licenses and services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 80,
+    "vendor_name": "Catering Muring",
+    "cost": 9602.7980408,
+    "department": "Facilities",
+    "description": "Employee food and catering services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 81,
+    "vendor_name": "Omonia D.O.O.",
+    "cost": 9558.8861528,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 82,
+    "vendor_name": "Outreach Corporation",
+    "cost": 9206.127319199999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 83,
+    "vendor_name": "Cbre Limited",
+    "cost": 8395.221120799999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 84,
+    "vendor_name": "Studentski Centar - Split",
+    "cost": 8269.3403752,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 85,
+    "vendor_name": "The Guardian",
+    "cost": 8070.2731496,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 86,
+    "vendor_name": "Intertrust Singapore Corporate Services Pte Ltd - Csc",
+    "cost": 7359.6324288,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 87,
+    "vendor_name": "Goto Technologies Uk Limited",
+    "cost": 7316.4524056,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 88,
+    "vendor_name": "Hrsolution International Ag",
+    "cost": 6987.1132456,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 89,
+    "vendor_name": "Trello",
+    "cost": 6673.8751112,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 90,
+    "vendor_name": "Obrt Sjaj Sunca",
+    "cost": 6596.297442399999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 91,
+    "vendor_name": "Telef\u00e3\u00b3Nica Compras Electr\u00e3\u00b3Nicas S.L.",
+    "cost": 6157.1785623999995,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 92,
+    "vendor_name": "Allianz Australia Workers' Compensation (Victoria) Limited",
+    "cost": 6098.6293784,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 93,
+    "vendor_name": "Icici Lombard Gic Ltd",
+    "cost": 5972.0167679999995,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 94,
+    "vendor_name": "Mosaic Concept D.O.O.",
+    "cost": 5730.501384,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 95,
+    "vendor_name": "Limes Plus D.O.O.",
+    "cost": 5623.6491232,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 96,
+    "vendor_name": "Mercer Limited",
+    "cost": 5443.6103824,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 97,
+    "vendor_name": "Acclime Corporate Services",
+    "cost": 5412.872060799999,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 98,
+    "vendor_name": "Green Commute Initiative",
+    "cost": 5401.8940888,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 99,
+    "vendor_name": "Tattu Manchester Limited",
+    "cost": 5366.0327136,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 100,
+    "vendor_name": "Athlete Service Ltd",
+    "cost": 5284.7957208,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 101,
+    "vendor_name": "Amazon Web Services Inc.",
+    "cost": 5153.0600568,
+    "department": "Engineering",
+    "description": "Cloud infrastructure and hosting services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 102,
+    "vendor_name": "Telemach Hrvatska D.O.O.",
+    "cost": 5134.031572,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 103,
+    "vendor_name": "Acclime Usa, Inc",
+    "cost": 4994.97726,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 104,
+    "vendor_name": "Centar Za Sigurnost D.O.O.",
+    "cost": 4991.3179359999995,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 105,
+    "vendor_name": "Profi Bar D.O.O.",
+    "cost": 4916.6677264,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 106,
+    "vendor_name": "Pricewaterhousecoopers Llp",
+    "cost": 4878.6107568,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 107,
+    "vendor_name": "Pinnacle Partnership Ca",
+    "cost": 4836.1625984,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 108,
+    "vendor_name": "The Virtual Legal Counsel Ltd",
+    "cost": 4800.3012232,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 109,
+    "vendor_name": "Australian Payroll Professionals Pty Ltd",
+    "cost": 4399.2393128,
+    "department": "G&A",
+    "description": "HR management and payroll services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 110,
+    "vendor_name": "Inter Continental Chennai Mahabalipuram Resort",
+    "cost": 4392.6525296,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 111,
+    "vendor_name": "Jetbrains S.R.O.",
+    "cost": 4083.0737191999997,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 112,
+    "vendor_name": "Crowe Horwath Revizija D.O.O.",
+    "cost": 4061.84964,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 113,
+    "vendor_name": "Puducherry Backwater Resort Private Limited",
+    "cost": 4055.9947216,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 114,
+    "vendor_name": "Orionw Llc",
+    "cost": 4025.2563999999998,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 115,
+    "vendor_name": "Adobe Systems Software",
+    "cost": 3928.6502464,
+    "department": "SaaS",
+    "description": "Business software and SaaS application",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 116,
+    "vendor_name": "Common Desk, Llc",
+    "cost": 3842.2902,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 117,
+    "vendor_name": "Hep Elektra D.O.O.",
+    "cost": 3734.7060744,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 118,
+    "vendor_name": "Zivi Napitak D.O.O.",
+    "cost": 3699.576564,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 119,
+    "vendor_name": "Gym4You D.O.O.",
+    "cost": 3692.257916,
+    "department": "G&A",
+    "description": "Employee benefits and wellness programs",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 120,
+    "vendor_name": "Aha! Labs Inc",
+    "cost": 3689.3304568,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 121,
+    "vendor_name": "Apple Retail Uk Ltd",
+    "cost": 3548.0805504,
+    "department": "SaaS",
+    "description": "Business software and SaaS application",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 122,
+    "vendor_name": "Kryterion, Inc.",
+    "cost": 3541.4937672,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 123,
+    "vendor_name": "Npm Inc",
+    "cost": 3534.9069839999997,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 124,
+    "vendor_name": "Pinsent Masons Mpillay Llp",
+    "cost": 4077.8263165000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 125,
+    "vendor_name": "Calm Achiever(A Unit Of Mohsin Ali Vakil)",
+    "cost": 4071.0143285000004,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 126,
+    "vendor_name": "Pluxee India Private Limited",
+    "cost": 3994.3794635000004,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 127,
+    "vendor_name": "O\u00e2\u20ac\u2122Donnell Salzano Lawyers",
+    "cost": 3955.2105325,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 128,
+    "vendor_name": "Papertrail Inc",
+    "cost": 3899.86313,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 129,
+    "vendor_name": "Sniper Systems And Solutions Private Limited",
+    "cost": 3899.0116315,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 130,
+    "vendor_name": "Trocadero (London) Hotel Ltd",
+    "cost": 3867.5061870000004,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 131,
+    "vendor_name": "Semrush Inc",
+    "cost": 3729.56343,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 132,
+    "vendor_name": "Golubica Parking D.O.O.",
+    "cost": 3726.1574360000004,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 133,
+    "vendor_name": "Vodafone (Australian)",
+    "cost": 3671.661532,
+    "department": "G&A",
+    "description": "Telecommunications and connectivity services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 134,
+    "vendor_name": "Ikea Hrvatska D.O.O.",
+    "cost": 3609.5021415,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 135,
+    "vendor_name": "Orcola D.O.O.",
+    "cost": 3544.7882555,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 136,
+    "vendor_name": "Info Edge India Limited",
+    "cost": 3536.2732705000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 137,
+    "vendor_name": "Grad Split",
+    "cost": 3482.628865,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 138,
+    "vendor_name": "T-Mobile",
+    "cost": 3357.4585855,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 139,
+    "vendor_name": "Akton D.O.O.",
+    "cost": 3253.5757685000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 140,
+    "vendor_name": "Bureau Veritas Croatia D.O.O.",
+    "cost": 3199.931363,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 141,
+    "vendor_name": "Cici Prudential Life Insurance Co. Ltd.",
+    "cost": 3194.822372,
+    "department": "G&A",
+    "description": "Employee insurance and benefits provider",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 142,
+    "vendor_name": "Ncc Services Limited",
+    "cost": 3036.443651,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 143,
+    "vendor_name": "Smartsheet Inc.",
+    "cost": 2994.7202245000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 144,
+    "vendor_name": "Good Game Global D.O.O.",
+    "cost": 2953.8482965000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 145,
+    "vendor_name": "Gara\u00e5\u00beA Firule D.O.O.",
+    "cost": 2930.0063385000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 146,
+    "vendor_name": "Crossland",
+    "cost": 2924.045849,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 147,
+    "vendor_name": "It London",
+    "cost": 2838.0445005,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 148,
+    "vendor_name": "Terrapinn Holdings Ltd",
+    "cost": 2838.0445005,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 149,
+    "vendor_name": "Elemental Life Solutions Llp",
+    "cost": 2806.539056,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 150,
+    "vendor_name": "United Flow Ltd (The Goodness Project)",
+    "cost": 2744.3796655,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 151,
+    "vendor_name": "Mcburneys Charted Accountants",
+    "cost": 2711.171224,
+    "department": "Professional Services",
+    "description": "Accounting, audit and financial advisory",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 152,
+    "vendor_name": "Cleverland Winery Resort",
+    "cost": 2662.6358095,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 153,
+    "vendor_name": "Ag Grid Ltd",
+    "cost": 2653.269326,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 154,
+    "vendor_name": "Lusha",
+    "cost": 2605.58541,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 155,
+    "vendor_name": "My Foodiverse Llp",
+    "cost": 2488.9301155000003,
+    "department": "Facilities",
+    "description": "Employee food and catering services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 156,
+    "vendor_name": "4Imprint Direct Ltd",
+    "cost": 2436.1372085000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 157,
+    "vendor_name": "City Pantry Ltd",
+    "cost": 2419.1072385,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 158,
+    "vendor_name": "Stipe Piric",
+    "cost": 2301.6004455,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 159,
+    "vendor_name": "Office Move London",
+    "cost": 2293.0854605,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 160,
+    "vendor_name": "Pink Ribbon Shop",
+    "cost": 2250.5105355,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 161,
+    "vendor_name": "Starhub Ltd (Supplier)",
+    "cost": 2205.381115,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 162,
+    "vendor_name": "N S Shastri And Co",
+    "cost": 2194.3116345000003,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 163,
+    "vendor_name": "John Smith",
+    "cost": 2162.8061900000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 164,
+    "vendor_name": "Fabiola Thistlewhaite",
+    "cost": 2154.291205,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 165,
+    "vendor_name": "Hp Inc Uk Limited",
+    "cost": 2136.4097365000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 166,
+    "vendor_name": "Cision Pr Newswire",
+    "cost": 2110.0132830000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 167,
+    "vendor_name": "George Anchor",
+    "cost": 2107.4587875,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 168,
+    "vendor_name": "Yoxel, Inc",
+    "cost": 2043.5964000000001,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 169,
+    "vendor_name": "Grt Hotels And Resorts P Ltd",
+    "cost": 2031.6754210000001,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 170,
+    "vendor_name": "Apple Pty Ltd",
+    "cost": 2030.8239225000002,
+    "department": "SaaS",
+    "description": "Business software and SaaS application",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 171,
+    "vendor_name": "Slack Technologies Limited",
+    "cost": 1989.100496,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 172,
+    "vendor_name": "G S Notary Public Limited",
+    "cost": 1935.4560905,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 173,
+    "vendor_name": "Apple Distribution International Ltd",
+    "cost": 1913.3171295000002,
+    "department": "SaaS",
+    "description": "Business software and SaaS application",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 174,
+    "vendor_name": "Porezno Savjetni\u00e5\u00a1Tvo Tuk D.O.O.",
+    "cost": 1812.8403065,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 175,
+    "vendor_name": "Susan Lee",
+    "cost": 1761.7503965,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 176,
+    "vendor_name": "Ansar Madovic",
+    "cost": 1731.947949,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 177,
+    "vendor_name": "Radius Group, Inc",
+    "cost": 1722.5814655000001,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 178,
+    "vendor_name": "Aquila Remete D.O.O.",
+    "cost": 1706.402994,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 179,
+    "vendor_name": "Clime India Private Limited",
+    "cost": 1678.3035435000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 180,
+    "vendor_name": "Golden Mean, Inc",
+    "cost": 1658.719078,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 181,
+    "vendor_name": "Paint & Fun Vl. Martina Milkova Nikolova",
+    "cost": 1654.4615855000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 182,
+    "vendor_name": "Carrington Communications",
+    "cost": 1654.4615855000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 183,
+    "vendor_name": "Crayond Digital Private Limited",
+    "cost": 1645.9466005000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 184,
+    "vendor_name": "Studentski Centar Karlovac",
+    "cost": 1548.8757715000002,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 185,
+    "vendor_name": "Lajnap Comedy Booking D.O.O.",
+    "cost": 1536.103294,
+    "department": "G&A",
+    "description": "Corporate travel management platform",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 186,
+    "vendor_name": "British Telecommunications",
+    "cost": 1492.6768705000002,
+    "department": "G&A",
+    "description": "Telecommunications and connectivity services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 187,
+    "vendor_name": "Etm Concessions Ltd",
+    "cost": 1418.596501,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 188,
+    "vendor_name": "Radisson Grt - Unit Of Hotels & Resorts Pvt Ltd",
+    "cost": 1405.8240235,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 189,
+    "vendor_name": "Ariba Inc",
+    "cost": 1363.2490985000002,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 190,
+    "vendor_name": "Chamiers Recreation Club",
+    "cost": 1337.7041435,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 191,
+    "vendor_name": "Quadrant Law Llc",
+    "cost": 1326.634663,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 192,
+    "vendor_name": "Docusign",
+    "cost": 1307.9016960000001,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 193,
+    "vendor_name": "Inside Edge Novated Leasing",
+    "cost": 1287.4657320000001,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 194,
+    "vendor_name": "Rhea D.O.O.",
+    "cost": 1253.405792,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 195,
+    "vendor_name": "P S Recreation Club",
+    "cost": 1219.3458520000001,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 196,
+    "vendor_name": "Fastspring",
+    "cost": 1179.3254225,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 197,
+    "vendor_name": "Dsv Solutions A/S",
+    "cost": 1162.2954525,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 198,
+    "vendor_name": "Curzon Green Solicitors",
+    "cost": 1158.03796,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 199,
+    "vendor_name": "Icare Nsw",
+    "cost": 1150.3744735,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 200,
+    "vendor_name": "Thomas Mansfield Solicitors Limited",
+    "cost": 1135.0475005,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 201,
+    "vendor_name": "Amazon.Co.Uk",
+    "cost": 1106.94805,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 202,
+    "vendor_name": "Backoffice Associates",
+    "cost": 1079.700098,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 203,
+    "vendor_name": "Oladi D.O.O.",
+    "cost": 1064.373125,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 204,
+    "vendor_name": "Integrated Personnel Services",
+    "cost": 1054.155143,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 205,
+    "vendor_name": "M\u00e3\u0153ller Trgovina Zagreb D.O.O.",
+    "cost": 1050.749149,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 206,
+    "vendor_name": "Lunch Nutrition D.O.O.",
+    "cost": 1011.5802180000001,
+    "department": "G&A",
+    "description": "Business services vendor",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 207,
+    "vendor_name": "Winmaxi Tours & Travels",
+    "cost": 1001.362236,
+    "department": "G&A",
+    "description": "Corporate travel management platform",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 208,
+    "vendor_name": "Digitalna Produkcija J.D.O.O.",
+    "cost": 992.847251,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 209,
+    "vendor_name": "Computershare-Caboodle Technology Limited",
+    "cost": 980.926272,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 210,
+    "vendor_name": "Allianz Wa",
+    "cost": 970.70829,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 211,
+    "vendor_name": "Trending Technology Services Gmbh",
+    "cost": 961.3418065000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 212,
+    "vendor_name": "Godaddy.Com, Llc",
+    "cost": 923.0243740000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 213,
+    "vendor_name": "Time Out Group",
+    "cost": 920.4698785,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 214,
+    "vendor_name": "Raiffeisenbank Austria D.D.",
+    "cost": 919.61838,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 215,
+    "vendor_name": "Galop-Prijevoz D.O.O.",
+    "cost": 907.697401,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 216,
+    "vendor_name": "Lane Ip Limited",
+    "cost": 851.4985,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 217,
+    "vendor_name": "Urbani Eventi D.O.O.",
+    "cost": 850.6470015000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 218,
+    "vendor_name": "Smashing Media Ag",
+    "cost": 849.795503,
+    "department": "Marketing",
+    "description": "Marketing automation and demand generation tool",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 219,
+    "vendor_name": "Epignosis Llc",
+    "cost": 832.765533,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 220,
+    "vendor_name": "Croatia Airlines",
+    "cost": 831.9140345000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 221,
+    "vendor_name": "Bb Football Scouting J.D.O.O.",
+    "cost": 822.547551,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 222,
+    "vendor_name": "Boe Croatia D.O.O.",
+    "cost": 814.0325660000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 223,
+    "vendor_name": "Potomac D.O.O.",
+    "cost": 805.5175810000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 224,
+    "vendor_name": "President Hotel And Tower Co., Ltd",
+    "cost": 802.9630855,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 225,
+    "vendor_name": "Friends Sports Club",
+    "cost": 797.002596,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 226,
+    "vendor_name": "The Cycle Gap Adyar",
+    "cost": 765.4971515000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 227,
+    "vendor_name": "Apple - Amer",
+    "cost": 763.7941545,
+    "department": "SaaS",
+    "description": "Business software and SaaS application",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 228,
+    "vendor_name": "Klg - Kalra Legal Group",
+    "cost": 681.1988,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 229,
+    "vendor_name": "Kilgannon & Partners Llp",
+    "cost": 681.1988,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 230,
+    "vendor_name": "Uk Postbox Limited",
+    "cost": 670.1293195000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 231,
+    "vendor_name": "Catering Ivi\u00e4\u2021 D.O.O.",
+    "cost": 669.277821,
+    "department": "Facilities",
+    "description": "Employee food and catering services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 232,
+    "vendor_name": "Blink Events",
+    "cost": 664.1688300000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 233,
+    "vendor_name": "Grafo-Jan",
+    "cost": 662.4658330000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 234,
+    "vendor_name": "Mesa Verde",
+    "cost": 662.4658330000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 235,
+    "vendor_name": "Pixsy Inc",
+    "cost": 613.07892,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 236,
+    "vendor_name": "Dun & Bradstreet D.O.O.",
+    "cost": 609.6729260000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 237,
+    "vendor_name": "Induslaw",
+    "cost": 596.04895,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 238,
+    "vendor_name": "Trans-Agram Obrt Za Dostavu",
+    "cost": 580.721977,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 239,
+    "vendor_name": "Landu Law Solicitors",
+    "cost": 567.9494995,
+    "department": "Legal",
+    "description": "Legal services and counsel",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 240,
+    "vendor_name": "Arena Center Zagreb D.O.O.",
+    "cost": 567.0980010000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 241,
+    "vendor_name": "Obrt Za Ugostiteljstvo Mirakul",
+    "cost": 565.3950040000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 242,
+    "vendor_name": "Oakberry Jr D.O.O.",
+    "cost": 534.7410580000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 243,
+    "vendor_name": "Tau On-Line D.O.O.",
+    "cost": 533.8895595,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 244,
+    "vendor_name": "Magic Mountain Saloon",
+    "cost": 523.6715775,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 245,
+    "vendor_name": "Hotel Zonar",
+    "cost": 522.8200790000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 246,
+    "vendor_name": "Roto Dinamic D.O.O.",
+    "cost": 511.7505985,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 247,
+    "vendor_name": "Tm Forum",
+    "cost": 510.04760150000004,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 248,
+    "vendor_name": "Marvie Hotel - Krupa D.O.O.",
+    "cost": 501.5326165,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 249,
+    "vendor_name": "Merchandise Ltd",
+    "cost": 490.463136,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 250,
+    "vendor_name": "Yellow Submarine D.O.O.",
+    "cost": 486.2056435,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 251,
+    "vendor_name": "Streamlinereforms Inc",
+    "cost": 482.79964950000004,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 252,
+    "vendor_name": "Make And Grow Ltd",
+    "cost": 482.79964950000004,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 253,
+    "vendor_name": "Obiteljski Hoteli D.O.O.",
+    "cost": 474.2846645,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 254,
+    "vendor_name": "Rudan D.O.O.",
+    "cost": 472.58166750000004,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 255,
+    "vendor_name": "Entrio Tehnologije D.O.O.",
+    "cost": 472.58166750000004,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 256,
+    "vendor_name": "Vivat Fina Vina D.O.O.",
+    "cost": 466.62117800000004,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 257,
+    "vendor_name": "Figma, Inc.",
+    "cost": 459.80919,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 258,
+    "vendor_name": "E-Disti D.O.O.",
+    "cost": 458.106193,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 259,
+    "vendor_name": "Greencell Express Private Limited",
+    "cost": 457.2546945,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 260,
+    "vendor_name": "Edwardian Pastoria Hotels Ltd (The Londoner)",
+    "cost": 433.41273650000005,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 261,
+    "vendor_name": "Tiganda J.D.O.O.",
+    "cost": 431.7097395,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 262,
+    "vendor_name": "Franklin, Gringer & Cohen, P.C.",
+    "cost": 426.6007485,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 263,
+    "vendor_name": "Blitz - Cinestar D.O.O.",
+    "cost": 425.74925,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 264,
+    "vendor_name": "Lancefield Bus Service",
+    "cost": 412.12527400000005,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 265,
+    "vendor_name": "Super Odredi\u00e5\u00a1Te D.O.O.",
+    "cost": 378.065334,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 266,
+    "vendor_name": "Pmi Global Operations Center",
+    "cost": 378.065334,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 267,
+    "vendor_name": "Student Packers & Movers",
+    "cost": 371.253346,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 268,
+    "vendor_name": "Del Posto D.O.O.",
+    "cost": 363.58985950000005,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 269,
+    "vendor_name": "Inicijativa Centar Za Edukaciju",
+    "cost": 357.62937,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 270,
+    "vendor_name": "Niva Transport J.D.O.O.",
+    "cost": 357.62937,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 271,
+    "vendor_name": "Doctor Anywhere Operations Pte Ltd",
+    "cost": 346.5598895,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 272,
+    "vendor_name": "Spar Hrvatska D.O.O.",
+    "cost": 340.5994,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 273,
+    "vendor_name": "Pepe'S Italian And Liquor",
+    "cost": 338.896403,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 274,
+    "vendor_name": "Pluralsight, Llc",
+    "cost": 318.460439,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 275,
+    "vendor_name": "Maniax Melbourne Cbd",
+    "cost": 315.05444500000004,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 276,
+    "vendor_name": "Dnsimple",
+    "cost": 311.648451,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 277,
+    "vendor_name": "Treci Posao D.O.O.",
+    "cost": 307.3909585,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 278,
+    "vendor_name": "Gaucho Restaurants",
+    "cost": 302.2819675,
+    "department": "Facilities",
+    "description": "Employee food and catering services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 279,
+    "vendor_name": "Formswift",
+    "cost": 301.430469,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 280,
+    "vendor_name": "Safestore Ltd",
+    "cost": 286.9549945,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 281,
+    "vendor_name": "Split Tech City",
+    "cost": 283.54900050000003,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 282,
+    "vendor_name": "National Securities Depository Limited(Nsdl)",
+    "cost": 280.994505,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 283,
+    "vendor_name": "Adamma Info Services Private Limited",
+    "cost": 273.3310185,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 284,
+    "vendor_name": "The Riding House Cafe",
+    "cost": 264.8160335,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 285,
+    "vendor_name": "Stillmark Zagreb D.O.O.",
+    "cost": 263.1130365,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 286,
+    "vendor_name": "Lastpass Ireland Limited",
+    "cost": 263.1130365,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 287,
+    "vendor_name": "Taste Of Health",
+    "cost": 258.855544,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 288,
+    "vendor_name": "Infodata",
+    "cost": 240.97407550000003,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 289,
+    "vendor_name": "Amazon (Aus)",
+    "cost": 233.31058900000002,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 290,
+    "vendor_name": "Regency Hampers Ltd",
+    "cost": 247.877645215,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 291,
+    "vendor_name": "Bella Operation A/S",
+    "cost": 240.505819335,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 292,
+    "vendor_name": "The Plant Man",
+    "cost": 234.976949925,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 293,
+    "vendor_name": "Media Promo Plus D.O.O.",
+    "cost": 225.762167575,
+    "department": "Marketing",
+    "description": "Marketing automation and demand generation tool",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 294,
+    "vendor_name": "Expert-Ing D.O.O.",
+    "cost": 224.84068934,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 295,
+    "vendor_name": "Atlassian Pty Ltd",
+    "cost": 223.91921110500002,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 296,
+    "vendor_name": "Djs For U",
+    "cost": 220.233298165,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 297,
+    "vendor_name": "Freepik Company",
+    "cost": 202.72521170000002,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 298,
+    "vendor_name": "Nastavni Zavod Za Javno Zdravstvo Dr. Andrija \u00c5 Tampar",
+    "cost": 199.03929876,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 299,
+    "vendor_name": "Rishi Events And Entainment",
+    "cost": 198.117820525,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 300,
+    "vendor_name": "Kosmaz Technologies Croatia",
+    "cost": 195.35338582,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 301,
+    "vendor_name": "Dhl",
+    "cost": 190.745994645,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 302,
+    "vendor_name": "Hotel Laguna D.D.",
+    "cost": 189.82451641,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 303,
+    "vendor_name": "Bigshare Services Private Limited",
+    "cost": 187.98155994,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 304,
+    "vendor_name": "Zettanet",
+    "cost": 183.374168765,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 305,
+    "vendor_name": "Hahn Air",
+    "cost": 183.374168765,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 306,
+    "vendor_name": "Vitality Works",
+    "cost": 181.53121229500002,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 307,
+    "vendor_name": "Avoxi Inc",
+    "cost": 177.845299355,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 308,
+    "vendor_name": "Zapier Inc.",
+    "cost": 166.787560535,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 309,
+    "vendor_name": "Solarwinds, Inc",
+    "cost": 165.86608230000002,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 310,
+    "vendor_name": "Xenon Savjetovanje D.O.O.",
+    "cost": 164.02312583,
+    "department": "Professional Services",
+    "description": "Business consulting and advisory services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 311,
+    "vendor_name": "Floom Ltd",
+    "cost": 162.18016936,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 312,
+    "vendor_name": "Notino S.R.O.",
+    "cost": 161.258691125,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 313,
+    "vendor_name": "Paint&Wine, Vl. Stevo Dosen",
+    "cost": 159.415734655,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 314,
+    "vendor_name": "Parcelforce Worldwide",
+    "cost": 154.80834348000002,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 315,
+    "vendor_name": "Advena",
+    "cost": 153.886865245,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 316,
+    "vendor_name": "Hrvatski Nezavisnici Izvoznici Softvera",
+    "cost": 153.886865245,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 317,
+    "vendor_name": "Monile J.D.O.O.",
+    "cost": 152.043908775,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 318,
+    "vendor_name": "Puzzle Promotion J.D.O.O.",
+    "cost": 142.829126425,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 319,
+    "vendor_name": "Zagreba\u00e4_x008d_Ki Holding D.O.O.",
+    "cost": 142.829126425,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 320,
+    "vendor_name": "Event Ors",
+    "cost": 142.829126425,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 321,
+    "vendor_name": "Sportkart D.O.O.",
+    "cost": 140.986169955,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 322,
+    "vendor_name": "Interaction Design Foundation, Inc",
+    "cost": 138.22173525,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 323,
+    "vendor_name": "(Blank)",
+    "cost": 137.300257015,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 324,
+    "vendor_name": "Escape Art D.O.O.",
+    "cost": 132.69286584,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 325,
+    "vendor_name": "Fero-Term",
+    "cost": 130.84990937,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 326,
+    "vendor_name": "Ustanova Za Zdravstvenu Skrb P.P.",
+    "cost": 130.84990937,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 327,
+    "vendor_name": "Vistaprint",
+    "cost": 129.928431135,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 328,
+    "vendor_name": "Teb Poslovno Savjetovanje D.O.O.",
+    "cost": 129.00695290000002,
+    "department": "Professional Services",
+    "description": "Business consulting and advisory services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 329,
+    "vendor_name": "Illunis D.O.O.",
+    "cost": 128.085474665,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 330,
+    "vendor_name": "The Cook Kitchen",
+    "cost": 122.55660525500001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 331,
+    "vendor_name": "Australian Taxation Office (Ato)",
+    "cost": 122.55660525500001,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 332,
+    "vendor_name": "Capitol Services",
+    "cost": 119.79217055000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 333,
+    "vendor_name": "Bonus Opinio D.O.O.",
+    "cost": 119.79217055000001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 334,
+    "vendor_name": "Dhl Express (Uk) Ltd",
+    "cost": 118.870692315,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 335,
+    "vendor_name": "Kat'S Kitchen D.O.O.",
+    "cost": 118.870692315,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 336,
+    "vendor_name": "Soho Kitchen Ltd",
+    "cost": 104.12704055500001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 337,
+    "vendor_name": "Fortis Trade J.D.O.O.",
+    "cost": 94.912258205,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 338,
+    "vendor_name": "Till Trade D.O.O.",
+    "cost": 93.06930173500001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 339,
+    "vendor_name": "Pret A Manger",
+    "cost": 92.1478235,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 340,
+    "vendor_name": "Axil Coffee Roasters",
+    "cost": 89.383388795,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 341,
+    "vendor_name": "Pepco Croatia D.O.O.",
+    "cost": 89.383388795,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 342,
+    "vendor_name": "Lemia D.O.O.",
+    "cost": 87.540432325,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 343,
+    "vendor_name": "Retriever Llc",
+    "cost": 87.540432325,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 344,
+    "vendor_name": "Meluba Limited",
+    "cost": 87.540432325,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 345,
+    "vendor_name": "London Waste Management",
+    "cost": 85.69747585500001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 346,
+    "vendor_name": "Hilton Garden Inn - Zagreb City Hotels D.O.O.",
+    "cost": 82.011562915,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 347,
+    "vendor_name": "Lider Media D.O.O.",
+    "cost": 80.16860644500001,
+    "department": "Marketing",
+    "description": "Marketing automation and demand generation tool",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 348,
+    "vendor_name": "Uptime Robot Service Provider Ltd",
+    "cost": 78.325649975,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 349,
+    "vendor_name": "Mithras Consultants",
+    "cost": 77.40417174000001,
+    "department": "Professional Services",
+    "description": "Business consulting and advisory services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 350,
+    "vendor_name": "6Sense Insights Inc",
+    "cost": 75.56121527,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 351,
+    "vendor_name": "Ico",
+    "cost": 67.26791115500001,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 352,
+    "vendor_name": "Sportska Udruga Split",
+    "cost": 66.34643292,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 353,
+    "vendor_name": "Prezzee",
+    "cost": 63.581998215000006,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 354,
+    "vendor_name": "Inet Telecoms Ltd.",
+    "cost": 62.660519980000004,
+    "department": "G&A",
+    "description": "Telecommunications and connectivity services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 355,
+    "vendor_name": "Wolt Enterprises Oy",
+    "cost": 61.739041745,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 356,
+    "vendor_name": "Platinum Office D.O.O.",
+    "cost": 61.739041745,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 357,
+    "vendor_name": "Snappy Snaps",
+    "cost": 58.97460704,
+    "department": "SaaS",
+    "description": "Business software and SaaS application",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 358,
+    "vendor_name": "New Block D.O.O.",
+    "cost": 56.210172335,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 359,
+    "vendor_name": "Cayman Islands Government",
+    "cost": 56.210172335,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 360,
+    "vendor_name": "Officeworks",
+    "cost": 56.210172335,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 361,
+    "vendor_name": "Click Send Pty Ltd",
+    "cost": 55.2886941,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 362,
+    "vendor_name": "Kall Kwik Centre 565",
+    "cost": 55.2886941,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 363,
+    "vendor_name": "Shilton Hospitality Llp",
+    "cost": 55.2886941,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 364,
+    "vendor_name": "Axosoft Gitkraken",
+    "cost": 54.367215865,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 365,
+    "vendor_name": "Istra Wine",
+    "cost": 53.44573763,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 366,
+    "vendor_name": "Gophr",
+    "cost": 51.60278116,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 367,
+    "vendor_name": "Pan-Pek D.O.O.",
+    "cost": 49.75982469,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 368,
+    "vendor_name": "Uber *Eats",
+    "cost": 49.75982469,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 369,
+    "vendor_name": "Fedex Express Uk Transportation Ltd",
+    "cost": 46.995389985,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 370,
+    "vendor_name": "Garden City D.O.O.",
+    "cost": 45.152433515,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 371,
+    "vendor_name": "Livingstone",
+    "cost": 40.54504234,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 372,
+    "vendor_name": "Ekupi D.O.O.",
+    "cost": 39.623564105,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 373,
+    "vendor_name": "Farmacia - Specijalizirana Prodavaonica D.O.O.",
+    "cost": 35.937651165,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 374,
+    "vendor_name": "Cupcake Central (Life Is Sweet Bakery)",
+    "cost": 35.01617293,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 375,
+    "vendor_name": "Post Office Ltd",
+    "cost": 32.251738225000004,
+    "department": "Facilities",
+    "description": "Office space and facilities provider",
+    "recommendation": "Consolidate"
+  },
+  {
+    "index": 376,
+    "vendor_name": "Currys Pc World",
+    "cost": 30.408781755,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 377,
+    "vendor_name": "Brodomerkur D.D.",
+    "cost": 28.565825285000003,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 378,
+    "vendor_name": "Sport Vision D.O.O.",
+    "cost": 25.80139058,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 379,
+    "vendor_name": "Harissa D.O.O.",
+    "cost": 21.193999405,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 380,
+    "vendor_name": "Specijalisticka Ordinacija Medicine Rada I Sporta Ina Kardos",
+    "cost": 20.27252117,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 381,
+    "vendor_name": "Specijalisticka Ordinacija Medicine Rada Helena Blazic",
+    "cost": 20.27252117,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 382,
+    "vendor_name": "Ustanova Za Medicinu Rada I Sporta Dr. Novacki",
+    "cost": 20.27252117,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 383,
+    "vendor_name": "M&S Simply Food",
+    "cost": 19.351042935000002,
+    "department": "Facilities",
+    "description": "Employee food and catering services",
+    "recommendation": "Optimize"
+  },
+  {
+    "index": 384,
+    "vendor_name": "Bakemono Bakers Melbourne",
+    "cost": 18.4295647,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  },
+  {
+    "index": 385,
+    "vendor_name": "Coles",
+    "cost": 17.508086465,
+    "department": "G&A",
+    "description": "Miscellaneous vendor",
+    "recommendation": "Terminate"
+  }
+]
